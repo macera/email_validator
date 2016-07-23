@@ -1,6 +1,3 @@
-# encoding: utf-8
-require 'format_validator/version'
-
 # encoding: UTF-8
 class EmailValidator < ActiveModel::EachValidator
   @@default_options = {}
